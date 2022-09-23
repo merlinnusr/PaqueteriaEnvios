@@ -1,11 +1,6 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+<p align="center">![Tecnologias](https://user-images.githubusercontent.com/14082302/192062210-f9d8a5f3-0c3f-46c1-b102-4f5adb8b32ec.png)</p>
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+
 
 ## Paqueteria para envios nacionales en Mexico hecho en Laravel
 
@@ -14,7 +9,8 @@ Hecho con Laravel 8, JQuery, Javascript, Stripe, MiEnvio y Emida para pago de se
 Debes de definir estas variables para que funciones
 
 
-MIENVIO_TOKEN=                                                              
+MIENVIO_TOKEN=                             
+                                 
 MIENVIO_ENDPOINT="https://production.mienvio.mx/api/"
 
 
