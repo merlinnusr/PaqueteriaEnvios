@@ -9,7 +9,7 @@
 
 ## Paqueteria para envios nacionales en Mexico hecho en Laravel
 
-Hecho con Laravel 8, Stripe, MiEnvio y Emida para pago de servicios
+Hecho con Laravel 8, JQuery, Javascript, Stripe, MiEnvio y Emida para pago de servicios
 
 Debes de definir estas variables para que funciones
 
