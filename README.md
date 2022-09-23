@@ -1,4 +1,4 @@
-<p align="center">![Tecnologias](https://user-images.githubusercontent.com/14082302/192062210-f9d8a5f3-0c3f-46c1-b102-4f5adb8b32ec.png)</p>
+![Tecnologias](https://user-images.githubusercontent.com/14082302/192062210-f9d8a5f3-0c3f-46c1-b102-4f5adb8b32ec.png)
 
 
 
