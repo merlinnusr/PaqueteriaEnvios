@@ -13,3 +13,4 @@ npm-debug.log
 yarn-error.log
 /public/images
 /.backup_dot_git
+.backup_dot_git
