@@ -1,9 +1,0 @@
-0000000000000000000000000000000000000000 52df0a49b2a1f706b612377fab8331d9485f0f1d Jorge Eduardo Tirado Sandoval <motorocool@gmail.com> 1621693556 -0500	clone: from git@gitserv:dagpacket/LaravelEnvios.git
-52df0a49b2a1f706b612377fab8331d9485f0f1d 4025c6223164c2f6536bc65ee748c32bcdefd634 Jorge <motorocool@gmail.com> 1622212814 -0500	commit: 85% of project
-4025c6223164c2f6536bc65ee748c32bcdefd634 981603ed92c32461b628566810bf6e5810c6dcbe Jorge <motorocool@gmail.com> 1622245687 -0500	commit: Show picking packages, interface to requestt a pickup
-981603ed92c32461b628566810bf6e5810c6dcbe 2ed43fdb990313a455036d16c237e6e575895768 Jorge <motorocool@gmail.com> 1622393732 -0500	commit: FINISH migration
-2ed43fdb990313a455036d16c237e6e575895768 e5ebcce39f1aebb9c8e89161cb55cc6834d62671 Jorge <motorocool@gmail.com> 1623278558 -0500	commit: change cache server
-e5ebcce39f1aebb9c8e89161cb55cc6834d62671 12e0d412e5fe2dcdcea49ef28071354e39b85169 Jorge <motorocool@gmail.com> 1624037743 -0500	commit: Change users
-12e0d412e5fe2dcdcea49ef28071354e39b85169 38058e4f0abfd0d86a4f56c2cee1bf546b2433dc Jorge <motorocool@gmail.com> 1633718885 -0500	commit: Adding pos payments
-38058e4f0abfd0d86a4f56c2cee1bf546b2433dc 9d33af91cf516d4b6628181b2c32d9b5348cb2ef Jorge <motorocool@gmail.com> 1633737551 -0500	commit: finishpos recharges
-9d33af91cf516d4b6628181b2c32d9b5348cb2ef de4d72be9918264c1c507bc0449c7cdce0b06e5f Jorge <motorocool@gmail.com> 1657073394 -0500	commit: cambios
